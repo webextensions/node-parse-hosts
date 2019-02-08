@@ -1,5 +1,5 @@
 {
-  "name": "parse-hosts",
+  "name": "@webextensions/parse-hosts",
   "version": "1.0.1",
   "description": "Parse the hosts file.",
   "main": "./lib/main.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/takanopontaro/node-parse-hosts"
+    "url": "https://github.com/webextensions/node-parse-hosts"
   },
   "keywords": [
     "hosts"
@@ -16,19 +16,13 @@
   "author": "takanopontaro",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/takanopontaro/node-parse-hosts/issues"
+    "url": "https://github.com/webextensions/node-parse-hosts/issues"
   },
-  "homepage": "https://github.com/takanopontaro/node-parse-hosts",
+  "homepage": "https://github.com/webextensions/node-parse-hosts",
   "dependencies": {
-    "lodash": "^2.4.1"
+    "lodash": "^4.17.11"
   },
   "devDependencies": {
-    "coffee-script": "^1.8.0",
-    "grunt": "^0.4.5",
-    "grunt-contrib-coffee": "^0.12.0",
-    "grunt-este-watch": "^0.1.18",
-    "grunt-exec": "^0.4.6",
-    "jasmine": "^2.1.1",
-    "source-map-support": "^0.2.9"
+    "jasmine": "^2.1.1"
   }
 }

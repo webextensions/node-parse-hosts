@@ -1,3 +1,5 @@
+**Note:** This is a fork of https://github.com/takanopontaro/node-parse-hosts
+
 # parse-hosts
 
 Parse the hosts file and return its list.

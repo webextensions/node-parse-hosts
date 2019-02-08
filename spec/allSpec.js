@@ -41,4 +41,3 @@ describe('All tests', function() {
   return it('Tear down for all', function() {});
 });
 
-//# sourceMappingURL=allSpec.js.map
